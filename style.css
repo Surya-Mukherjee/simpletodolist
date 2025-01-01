@@ -1,0 +1,33 @@
+*{
+   margin:0px;
+   padding:0px;
+}
+body{
+    background-color: burlywood;
+}
+
+.header{
+    margin:4px 0px 0px 0px;
+    font-size:medium;
+    background-color: red;
+}
+
+.para{
+    margin:40px 0px 40px 0px;
+    padding: 2px;
+}
+#process{
+    margin:44px 0px 0px 0px;
+}
+
+.button{
+    /* display:flex; */
+    gap:3px;
+    padding-left:8px;
+}
+.button button{
+    outline:none;
+    border:none;
+    font-size:1.75rem;
+    background-color: transparent;
+}
